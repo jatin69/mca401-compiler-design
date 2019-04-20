@@ -2,6 +2,6 @@ lex.yy.c
 y.tab.c 
 y.tab.h 
 a.out 
+calculator
 y.output
 y.dot
-ref/
