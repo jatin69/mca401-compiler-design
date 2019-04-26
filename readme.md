@@ -4,6 +4,11 @@ Coursework for mca401-compiler-design
 
 We use [GNU's flex bison](https://www.gnu.org/software/bison/manual/) for all the codes.
 
+## package requirements
+
+- gnu's lex yacc `sudo apt-get install bison flex`
+- make utility `sudo apt-get install build-essential`
+
 ## Question Answers
 
 <details>
